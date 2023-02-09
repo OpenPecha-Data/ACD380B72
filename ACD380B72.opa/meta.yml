@@ -1,0 +1,19 @@
+id: ACD380B72
+title: 'BA: Gaṇḍavyūhasūtra'
+type: translation
+pechas:
+- I89F99CB2
+- I4D9AE76A
+- ID7F34144
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  datatype: PlainText
+  created_at: 2023-02-09 14:42:43.157416
+  last_modified_at: 2023-02-09 14:42:43.157428
+alignment_to_base:
+  I89F99CB2/B9EE: EBA4
+  I4D9AE76A/744E: EBA4
+  ID7F34144/6FB4: EBA4
